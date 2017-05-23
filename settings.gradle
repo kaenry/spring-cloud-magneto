@@ -1,0 +1,4 @@
+rootProject.name = 'magneto'
+include 'discover'
+include 'auth'
+
